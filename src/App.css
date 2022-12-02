@@ -2,6 +2,7 @@
   text-align: center;
   padding: 1rem;
   display: flex;
+  flex-direction: column;
   align-items: center;
   justify-content: center;
   min-height: 100vh;
@@ -55,9 +56,9 @@ button {
   justify-content: center;
   align-items: center;
   border: none;
-  box-shadow: 0 0 6px #20B2AA;
   border-radius: 8pt;
-  background-color: #008080;
+  background-color: #003180;
+  box-shadow: 0 0 4px #7b92e5;
   color: white;
   font-weight: bold;
 }
